@@ -1,11 +1,9 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
+###### https://sharif-42.github.io/
 
-###### https://vinaysomawat.github.io/
-
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/vinaysomawatgithubio.gif)
+![Image](images/portfolio.png)
 ### About me
 * Competitive Programming Page
 * Web Designing Page
@@ -39,11 +37,11 @@ Web Portfolio to showcase projects and skills in better manner.
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/yourgithubpseudo/vinaysomawat.github.io.git`
+3. `git clone https://github.com/yourgithubpseudo/sharif-42.github.io.git`
 
-#### To contribute to the project:
+<!-- #### To contribute to the project:
 
-1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
+1. Choose any open issue from [here](https://github.com/sharif-42/sharif-42.github.io/issues). 
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
@@ -55,4 +53,4 @@ Follow the given link to make a successful and valid PR: https://help.github.com
 
 1. Make PR title in this format: `Fixes #IssueNo : Name of Issue`
 
-For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
+For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue. -->
